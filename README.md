@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavvanPradeep
 - 👀 I’m interested in coding,football and gaming 
-- 🌱 I’m currently learning python,html,java
+- 🌱 I’m currently learning python,html,css,javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me:pavvanpradeep@gmail.com
 
