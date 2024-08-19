@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Pavvan</h2>
+<h1 align="center">Hi 👋! My name is Pavvan</h1>
 
 ###
 
-<h4 align="center">A passionate Full Stack Developer and aspiring Cloud and Systems Engineer</h4>
+<h3 align="center">A passionate Full Stack Developer and aspiring Cloud and Systems Engineer</h3>
 
 ###
 
@@ -92,27 +92,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/PavvanPradeep/count.svg?"  />
-</div>
-
-###
-
-<h4 align="left">Connect with me:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pavvan-pradeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="pavvanpradeep@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://dev.to/pavvanpradeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="https://www.instagram.com/pavvan.exe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
