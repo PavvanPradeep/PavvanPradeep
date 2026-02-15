@@ -37,7 +37,3 @@
 <img src="https://raw.githubusercontent.com/PavvanPradeep/PavvanPradeep/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PavvanPradeep/count.svg?"  />
-</div>
