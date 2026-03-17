@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Full Stack Developer and aspiring Cloud and Systems Engineer</h3>
+<h3 align="center">Distributed systems, Databases, Cloud and AI</h3>
 
 ###
 
